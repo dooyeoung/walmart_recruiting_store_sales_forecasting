@@ -1,6 +1,6 @@
 # Walmart Recruiting - Store Sales Forecasting
 https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting
-## Result
+## Description
 
 - 각기다른 지역의 45개 점포의 과거 자료를 제공한다
 - 2010-02-05 ~ 2012-10-26일까지 일주일 간격으로 143주의 데이터가 있다
